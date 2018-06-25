@@ -5,7 +5,7 @@ class = Dog
  end
  
  def dog_name
- dog_name = "Fido"
+ #name = "Fido"
  print "Hello, I am {#dog name}"
  end 
  
