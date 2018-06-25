@@ -23,12 +23,10 @@ end
 def #person_name
 @@name 
 #name = "Andrea"
-print "Hello, I am {#person name} and my job is {@job}!"
+
 end 
 
- 
-   
- 
- 
- 
- 
+#job = artist 
+@@job
+#job = "artist"
+ print "Hello, I am {#person_name} and my job is {@job}!"
