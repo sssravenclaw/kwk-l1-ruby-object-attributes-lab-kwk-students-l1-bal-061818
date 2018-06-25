@@ -7,8 +7,14 @@ class = Dog
  def dog_name
    @@name
  #name = "Fido"
- print "Hello, I am {#dog name}"
- end
+ print "Hello, I am {#dog name} and I am a {@breed!}"
+ end 
+ 
+ #breed = (dog.name)
+ #breed = Husky
+ Fido = Husky
+ 
+   
  
  
  
